@@ -5,3 +5,4 @@
  Algunas incluyen:
  Poto
  Reconoce cuanta luz y esoacio necesita tu planta
+Girar de vez en cuando para que reciba luz
