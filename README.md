@@ -5,4 +5,3 @@
  Algunas incluyen:
  Poto
  Reconoce cuanta luz y esoacio necesita tu planta
-El agua es buena pero en exceso puede ser dañino
